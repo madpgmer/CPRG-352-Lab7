@@ -11,7 +11,7 @@ import java.util.*;
  */
 @Entity
 @Table (name = "user")
-@NamedQueries ({})
+@NamedQueries ({@NamedQuery(name="User.findAll", query="SELECT u from User u")})
 
 public class User implements Serializable {
     @Id
