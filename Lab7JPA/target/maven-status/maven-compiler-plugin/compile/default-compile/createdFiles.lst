@@ -1,3 +1,10 @@
-ca\sait\lab7jpa\dataaccess\DBUtil1.class
+ca\sait\lab7jpa\models\User_.class
+ca\sait\lab7jpa\dataaccess\RoleDB.class
 ca\sait\lab7jpa\models\User.class
+ca\sait\lab7jpa\dataaccess\DBUtil.class
+ca\sait\lab7jpa\models\Role_.class
+ca\sait\lab7jpa\services\UserService.class
+ca\sait\lab7jpa\services\RoleService.class
+ca\sait\lab7jpa\dataaccess\UserDB.class
+ca\sait\lab7jpa\servlets\UserServlet.class
 ca\sait\lab7jpa\models\Role.class

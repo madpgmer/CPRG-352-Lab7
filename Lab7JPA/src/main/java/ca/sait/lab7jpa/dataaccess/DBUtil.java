@@ -1,8 +1,6 @@
 package ca.sait.lab7jpa.dataaccess;
 
-import java.sql.*;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
+import javax.persistence.*;
 
 public class DBUtil {
     private static final EntityManagerFactory emf =
